@@ -112,6 +112,13 @@ const imageCards = [
   src: "/images/05_reativacao_participacao_ativa.png",
   alt: "Reativação",
   text: "A reativação de usuários pode ter impacto significativo na base ativa. O modelo permite avaliar quando essa estratégia é mais eficiente do que investir apenas em aquisição."
+},
+{
+  title: "Análise estratégica de crescimento",
+  subtitle: "Comparação entre aquisição, retenção e reativação",
+  src: "/images/ifood_case_resumo.png",
+  alt: "Comparação de cenários de crescimento de usuários",
+  text: "A análise mostra que estratégias focadas apenas em aquisição aumentam o volume, mas não garantem eficiência. Retenção apresentou o maior impacto no crescimento sustentável, enquanto reativação atua como alavanca complementar. O comportamento do churn se mostrou determinante para a qualidade da base ao longo do tempo."
 }
 ];
 
