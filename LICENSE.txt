@@ -1,0 +1,15 @@
+BORBA MATHEMATICAL INTELLIGENCE
+PROPRIETARY NOTICE — ALL RIGHTS RESERVED
+
+Copyright © 2026 Hellen Borba Pinheiro.
+All rights reserved.
+
+This repository is publicly viewable, but it is not released under an open-source license.
+
+Unless otherwise stated in a specific file or component, no permission is granted to use, copy, reproduce, modify, merge, publish, distribute, sublicense, sell, or commercially exploit the original source code, documentation, written content, visual materials, analytical descriptions, or project-specific materials contained in this repository.
+
+Access to this repository through GitHub remains subject to the GitHub Terms of Service, including the platform permissions necessary for viewing and forking public repositories.
+
+Third-party libraries, frameworks, datasets, APIs, trademarks, and other external materials remain subject to their respective licenses, terms, and rights. This notice applies only to original material for which Hellen Borba Pinheiro is the copyright holder.
+
+For permission to reuse original material, prior written authorization from the copyright holder is required.
